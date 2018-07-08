@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Discador
+#Discador telefonico
 #el programa esta armado con 100% de zoom pyautogui, pyperclip, time
 import pyperclip, time, pyautogui, openpyxl
 import torpedoMail as tpd
